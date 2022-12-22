@@ -1,2 +1,4 @@
 ! 2022-12-03 https://chat.openai.com/
+! etherealxx
 ||chat.openai.com/backend-api/moderations$xhr,domain=chat.openai.com
+||chat.openai.com/backend-api/moderations$xmlhttprequest,domain=chat.openai.com
