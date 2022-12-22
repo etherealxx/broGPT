@@ -1,0 +1,2 @@
+! 2022-12-03 https://chat.openai.com/
+||chat.openai.com/backend-api/moderations$xhr,domain=chat.openai.com
