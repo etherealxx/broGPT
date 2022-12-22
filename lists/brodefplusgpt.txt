@@ -7,3 +7,6 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+
+# Entry to bypass ChatGPT
+https://raw.githubusercontent.com/etherealxx/broGPT/main/lists/bypassgpt.txt
